@@ -1,10 +1,7 @@
 # chuck-norris-jokes
 
-FIXME: Write a one-line description of your library/project.
+Start playing with Clojure and Reagent. This is a very simple Web App showing the Chuck Norris jokes from [https://api.chucknorris.io](https://api.chucknorris.io).
 
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
 
 ## Setup
 
