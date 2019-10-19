@@ -1,0 +1,17 @@
+/* some style */
+/* some style */
+@import url("https://unpkg.com/wingcss");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css");
+
+button {
+  margin: 1rem 0.5rem 1rem 0.5rem;
+}
+
+#author {
+  font-style: italic;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+  text-decoration: none;
+}
